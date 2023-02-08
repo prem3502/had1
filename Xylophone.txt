@@ -79,3 +79,18 @@ onPressed: () {
 playSound(7);
 }, child: Text('Seventh'),
 ),), ], ); }}
+
+/*
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  audioplayers: ^0.19.1
+  
+  
+flutter:
+  uses-material-design: true
+  assets:
+     - assets/
+*/
